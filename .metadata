@@ -1,0 +1,10 @@
+{
+  "name" : "imriFUBees",
+  "friendlyName" : "FU Bee Categorize",
+  "description" : ".",
+  "author" : "Imrielle",
+  "version" : "1.0",
+  "link" : "",
+  "steamContentId" : "000000005",
+  "includes" : ["FrackinUniverse"]
+}
